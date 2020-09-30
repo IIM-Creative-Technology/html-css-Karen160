@@ -1,6 +1,6 @@
 <?php include('inc/head.php'); //Nav ?>
-    <title>Sond'Anim</title>
-    <meta name="description" content="Répondez aux différents sondages concernant vos animés préférés et gagnez des points pour devenir premier au classement !">
+    <title>Sondages Demon Slayer</title>
+    <meta name="description" content="Les sondages sur Demon Slayer">
 <head>
 <body>
     <header>
@@ -8,39 +8,8 @@
         <?php include('inc/nav.php'); //Nav ?>
     </header>
     <main>
-        <section nouvSondage>
-            <h2>Les animés de nos sondages</h2>
-            <div class="menuSondage">
-                <div>
-                    <a href="sondageDemonSlayer.php">
-                        <img src="img/MHA/midoryia.gif" alt="Midoryia regard">
-                        <h2>Demon Slayer</h2>
-                    </a>
-                </div>
-
-                <div>
-                    <a href="sondageDemonSlayer.php">
-                        <img src="img/onePiece/onepiece.gif" alt="Luffy regard">
-                        <h2>One Piece</h2>
-                    </a>
-                </div>
-
-                <div>
-                    <a href="sondageDemonSlayer.php">
-                        <img src="img/demonSlayer/tanjiro.gif" alt="Tanjiro regard">
-                        <h2>Demon Slayer</h2>
-                    </a>
-                </div>
-
-                <div>
-                    <a href="sondageDemonSlayer.php">
-                        <img src="img/HxH/hxh.gif" alt="Killua regard">
-                        <h2>Hunter x Hunter</h2>
-                    </a>
-                </div>
-            </div>
-
-            <h2>Nouveaux sondages</h2>
+        <section sond>
+            <h2>Sondages Demon Slayer</h2>      
             <div class="conteneur">
                 <div class="boxsondage">
                     <a href="demonTanjiro.php">
@@ -56,36 +25,24 @@
                 </div>
                 <div class="boxsondage">
                     <a href="demonTanjiro.php">
-                        <img src="img/onePiece/equipage.png" alt="Equipage de luffy">
-                        <p>
-                            <span>12 points</span>
-                            <br><br>
-                            Un nouveau membre va-t-il intégrer l'équipage ?
-                            <br>
-                            <i class="fas fa-arrow-right"></i>
-                        </p>
-                    </a>
-                </div>
-                <div class="boxsondage">
-                    <a href="demonTanjiro.php">
-                        <img src="img/MHA/uraraka.png" alt="Uraraka">
+                        <img src="img/demonSlayer/feuTanjiro.png" alt="Le père de Tanjiro">
                         <p>
                             <span>11 points</span>
                             <br><br>
-                            Ochaco va t'elle avouer ses sentiments à Izuku ?
+                            Tanjiro pourra-t-il maitriser le souffle du feu ?
                             <br>
                             <i class="fas fa-arrow-right"></i>
                         </p>
                     </a>
                 </div>
-                
+
                 <div class="boxsondage">
                     <a href="demonTanjiro.php">
-                        <img src="img/MHA/todomido.png" alt="Combat entre todoroki et midoriya">
+                        <img src="img/demonSlayer/muzan.png" alt="Muzan">
                         <p>
                             <span>24 points</span>
                             <br><br>
-                            Quel grand combat est à prévoir avec Izuku ? 
+                            Tanjiro va-t-il tuer Mizan ? 
                             <br>
                             <i class="fas fa-arrow-right"></i>
                         </p>
@@ -93,11 +50,11 @@
                 </div>
                 <div class="boxsondage">
                     <a href="demonTanjiro.php">
-                        <img src="img/HxH/briguad.png" alt="Brigade fantome">
+                        <img src="img/demonSlayer/zenitsu.png" alt="Attaque de Zenitsu">
                         <p>
                             <span>15 points</span>
                             <br><br>
-                            Gon et Killua vont-ils se battre contre la brigade fantôme ? 
+                            Zenitsu va-t-il prendre conscience de sa force ? 
                             <br>
                             <i class="fas fa-arrow-right"></i>
                         </p>
@@ -115,6 +72,30 @@
                         </p>
                     </a>
                 </div>
+                <div class="boxsondage">
+                        <a href="#">
+                            <img src="img/demonSlayer/demonNezuko.png" alt="Demon Tanjiro">
+                            <p>
+                                <span>15 points</span>
+                                <br><br>
+                                Nezuko va-t-elle perdre le contrôle et manger des humains ? 
+                                <br>
+                                <i class="fas fa-arrow-right"></i>
+                            </p>
+                        </a>
+                    </div>
+                    <div class="boxsondage">
+                        <a href="#">
+                            <img src="img/demonSlayer/combat.png" alt="Combat entre Tanjiro et Inosuke">
+                            <p>
+                                <span>10 points</span>
+                                <br><br>
+                                Est-ce que Tanjiro va se battre contre ses coéquipiers ?
+                                <br>
+                                <i class="fas fa-arrow-right"></i>
+                            </p>
+                        </a>
+                    </div>
             </div>
         </section>
     </main>
