@@ -9,15 +9,15 @@
     </header>
     <main>
         <section nouvSondage>
-            <h2>Sondage</h2>
-            <ul class="menu2">
-                <a href="#"><li>Nouveautés</li></a>
-                <a href="#"><li>One Piece</li></a>
-                <a href="#"><li>Hunter x Hunter</li></a>
-                <a href="#"><li>My Hero Academia</li></a>
-                <a href="#"><li  class="bord">Demon Slayer</li></a>
-            </ul>
+            <h2>Catégories Sondages</h2>
+            <div class="menuSondage">
+                <div>
+                    <img src="img/demonSlayer/tanjiro.gif" alt="Tanjiro coupant avec son katana">
+                    <p>Démon Slayer</p>
+                </div>
+            </div>
 
+            <h2>Nouveaux sondages</h2>
             <div class="conteneur">
                 <div class="boxsondage">
                     <a href="demonTanjiro.php">
