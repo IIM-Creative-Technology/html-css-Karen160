@@ -37,18 +37,18 @@
                 </tr>
                 <tr>
                     <td>4ème</td>
-                    <td>Jonathan</td>
-                    <td>180</td>
+                    <td>phil</td>
+                    <td>98</td>
                 </tr>
                 <tr>
                     <td>5ème</td>
-                    <td>Bastien</td>
-                    <td>120</td>
+                    <td>Midec</td>
+                    <td>95</td>
                 </tr>
                 <tr>
                     <td>6ème</td>
-                    <td>Ron</td>
-                    <td>100</td>
+                    <td>Kiri</td>
+                    <td>92</td>
                 </tr>
                 <tr>
                     <td>7ème</td>
