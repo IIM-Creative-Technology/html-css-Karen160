@@ -8,35 +8,38 @@
         <?php include('inc/nav.php'); //Nav ?>
     </header>
     <main>
-        <div class="menuSondage">
-            <div>
-                <a href=#>
-                        <img src="img/demonSlayer/tanjiro.gif" alt="Tanjiro coupant avec son katana">
-                        <h2>Démon Slayer</h2>
+        <section sondage>
+        <h2>Catégories des sondages</h2>
+            <div class="menuSondage">
+                <div>
+                    <a href=#>
+                        <img src="img/MHA/midoryia.gif" alt="Midoryia en mode one for all intégral">
+                        <h2>Demon Slayer</h2>
                     </a>
                 </div>
 
                 <div>
                     <a href=#>
-                        <img src="img/demonSlayer/tanjiro.gif" alt="Tanjiro coupant avec son katana">
-                        <h2>Démon Slayer</h2>
+                        <img src="img/onePiece/regard.gif" alt="Luffy en mode gear 5">
+                        <h2>One Piece</h2>
                     </a>
                 </div>
 
                 <div>
                     <a href=#>
-                        <img src="img/demonSlayer/tanjiro.gif" alt="Tanjiro coupant avec son katana">
-                        <h2>Démon Slayer</h2>
+                        <img src="img/demonSlayer/regard.gif" alt="Tanjiro coupant avec son katana">
+                        <h2>Demon Slayer</h2>
                     </a>
                 </div>
 
                 <div>
                     <a href=#>
-                        <img src="img/demonSlayer/tanjiro.gif" alt="Tanjiro coupant avec son katana">
-                        <h2>Démon Slayer</h2>
+                        <img src="img/HxH/regard.gif" alt="Killua avec son yoyo">
+                        <h2>Hunter x Hunter</h2>
                     </a>
                 </div>
-        </div>
+            </div>
+        </section>
     </main>
 
 <footer>

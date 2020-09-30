@@ -1,7 +1,7 @@
 /* IMPORT DE TOUS LES STYLES */
 
 @import "base.css";
-@import "demonTanjiro.css";
-@import "acceuil.css";
 @import "sondage.css";
+@import "acceuil.css";
+@import "demonTanjiro.css";
 @import "classement.css";

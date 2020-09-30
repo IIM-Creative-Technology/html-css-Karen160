@@ -9,33 +9,33 @@
     </header>
     <main>
         <section nouvSondage>
-            <h2>Catégories des sondages</h2>
+            <h2>Les Animés</h2>
             <div class="menuSondage">
                 <div>
                     <a href=#>
-                        <img src="img/demonSlayer/tanjiro.gif" alt="Tanjiro coupant avec son katana">
-                        <h2>Démon Slayer</h2>
+                        <img src="img/MHA/midoryia.gif" alt="Midoryia en mode one for all intégral">
+                        <h2>Demon Slayer</h2>
+                    </a>
+                </div>
+
+                <div>
+                    <a href=#>
+                        <img src="img/onePiece/onepiece.gif" alt="Luffy en mode gear 5">
+                        <h2>One Piece</h2>
                     </a>
                 </div>
 
                 <div>
                     <a href=#>
                         <img src="img/demonSlayer/tanjiro.gif" alt="Tanjiro coupant avec son katana">
-                        <h2>Démon Slayer</h2>
+                        <h2>Demon Slayer</h2>
                     </a>
                 </div>
 
                 <div>
                     <a href=#>
-                        <img src="img/demonSlayer/tanjiro.gif" alt="Tanjiro coupant avec son katana">
-                        <h2>Démon Slayer</h2>
-                    </a>
-                </div>
-
-                <div>
-                    <a href=#>
-                        <img src="img/demonSlayer/tanjiro.gif" alt="Tanjiro coupant avec son katana">
-                        <h2>Démon Slayer</h2>
+                        <img src="img/HxH/hxh.gif" alt="Killua avec son yoyo">
+                        <h2>Hunter x Hunter</h2>
                     </a>
                 </div>
             </div>
