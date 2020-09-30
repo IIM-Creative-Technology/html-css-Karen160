@@ -5,7 +5,7 @@
 <body>
     <header>
         <h1>Sond'Anim</h1>
-        <?php include('inc/nav.php'); //Nav ?>
+        <?php include('inc/nav.php'); ?>
     </header>
     <main>
         <section demonTanjiro>

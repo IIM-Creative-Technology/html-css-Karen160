@@ -1,11 +1,11 @@
-<?php include('inc/head.php'); //Nav ?>
+<?php include('inc/head.php'); ?>
     <title>Sondages Demon Slayer</title>
     <meta name="description" content="Les sondages sur Demon Slayer">
 <head>
 <body>
     <header>
         <h1>Sond'Anim</h1>
-        <?php include('inc/nav.php'); //Nav ?>
+        <?php include('inc/nav.php'); ?>
     </header>
     <main>
         <section sond>

@@ -1,11 +1,11 @@
-<?php include('inc/head.php'); //Nav ?>
+<?php include('inc/head.php'); ?>
     <title>Sond'Anim</title>
     <meta name="description" content="Répondez aux différents sondages concernant vos animés préférés et gagnez des points pour devenir premier au classement !">
 <head>
 <body>
     <header>
         <h1>Sond'Anim</h1>
-        <?php include('inc/nav.php'); //Nav ?>
+        <?php include('inc/nav.php'); ?>
     </header>
     <main>
         <section nouvSondage>
@@ -13,28 +13,28 @@
             <div class="menuSondage">
                 <div>
                     <a href="sondageDemonSlayer.php">
-                        <img src="img/MHA/midoryia.gif" alt="Midoryia regard">
+                        <img src="img/MHA/midoryia.gif" alt="Midoryia en mode one for all intégral">
                         <h2>Demon Slayer</h2>
                     </a>
                 </div>
 
                 <div>
                     <a href="sondageDemonSlayer.php">
-                        <img src="img/onePiece/onepiece.gif" alt="Luffy regard">
+                        <img src="img/onePiece/onepiece.gif" alt="Luffy en mode gear 5">
                         <h2>One Piece</h2>
                     </a>
                 </div>
 
                 <div>
                     <a href="sondageDemonSlayer.php">
-                        <img src="img/demonSlayer/tanjiro.gif" alt="Tanjiro regard">
+                        <img src="img/demonSlayer/tanjiro.gif" alt="Tanjiro coupant avec son katana">
                         <h2>Demon Slayer</h2>
                     </a>
                 </div>
 
                 <div>
                     <a href="sondageDemonSlayer.php">
-                        <img src="img/HxH/hxh.gif" alt="Killua regard">
+                        <img src="img/HxH/hxh.gif" alt="Killua avec son yoyo">
                         <h2>Hunter x Hunter</h2>
                     </a>
                 </div>
