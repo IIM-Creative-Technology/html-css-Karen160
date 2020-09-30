@@ -1,3 +1,30 @@
+.menuSondage{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin: 35px 0 100px;
+}
+
+.menuSondage div{
+    cursor: pointer;
+    margin: 10px;
+    height: 224px;
+}
+
 .menuSondage img{
-    width : 450px;
+    display: block;
+    width : 400px;
+    object-fit : cover;
+    position: absolute;
+    z-index: 1;
+    box-shadow: 0 3px 6px rgba(255, 255, 255, 0.418);
+    border-radius: 15px; 
+}
+
+.menuSondage h2{
+    top:80px;
+    z-index: 10;
+    position: relative;
+    width: 400px;
 }

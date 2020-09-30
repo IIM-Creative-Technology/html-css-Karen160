@@ -20,16 +20,17 @@
 }
 
 .conteneur .boxsondage{
-    width: 480px;
+    width: 400px;
     background-color: rgba(255, 255, 255, 0.719);
     background-color: #e8e6e3;
     box-shadow: 0 3px 6px rgba(255, 255, 255, 0.418);
     border-radius: 15px;
-    margin: 35px 10px 80px;
+    margin: 35px 20px 80px;
 }
 
-.conteneur img{
+.conteneur .boxsondage img{
     border-radius: 15px 15px 0 0;
+    width: 400px;
 }
 
 .fa-arrow-right{
@@ -58,7 +59,7 @@
         margin-bottom: 0px;
     }
     
-    .boxsondage img{
+    .conteneur .boxsondage img{
         width: 300px;
     }
 }

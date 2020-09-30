@@ -9,11 +9,34 @@
     </header>
     <main>
         <section nouvSondage>
-            <h2>Catégories Sondages</h2>
+            <h2>Catégories des sondages</h2>
             <div class="menuSondage">
                 <div>
-                    <img src="img/demonSlayer/tanjiro.gif" alt="Tanjiro coupant avec son katana">
-                    <p>Démon Slayer</p>
+                    <a href=#>
+                        <img src="img/demonSlayer/tanjiro.gif" alt="Tanjiro coupant avec son katana">
+                        <h2>Démon Slayer</h2>
+                    </a>
+                </div>
+
+                <div>
+                    <a href=#>
+                        <img src="img/demonSlayer/tanjiro.gif" alt="Tanjiro coupant avec son katana">
+                        <h2>Démon Slayer</h2>
+                    </a>
+                </div>
+
+                <div>
+                    <a href=#>
+                        <img src="img/demonSlayer/tanjiro.gif" alt="Tanjiro coupant avec son katana">
+                        <h2>Démon Slayer</h2>
+                    </a>
+                </div>
+
+                <div>
+                    <a href=#>
+                        <img src="img/demonSlayer/tanjiro.gif" alt="Tanjiro coupant avec son katana">
+                        <h2>Démon Slayer</h2>
+                    </a>
                 </div>
             </div>
 
@@ -37,7 +60,7 @@
                         <p>
                             <span>12 points</span>
                             <br><br>
-                            Est ce qu'un nouveau membre va intégrer l'équipage ?
+                            Un nouveau membre va-t-il intégrer l'équipage ?
                             <br>
                             <i class="fas fa-arrow-right"></i>
                         </p>
@@ -55,7 +78,7 @@
                         </p>
                     </a>
                 </div>
-
+                
                 <div class="boxsondage">
                     <a href="demonTanjiro.php">
                         <img src="img/MHA/todomido.png" alt="Combat entre todoroki et midoriya">
